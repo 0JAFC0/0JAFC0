@@ -35,8 +35,8 @@
 
 <div>
   <h3 align="left">Stats Cards:</h3>
-  <p>&nbsp;<img align="left" height=150em src="https://github-readme-stats.vercel.app/api?username=0jafc0&show_icons=true&locale=en&title_color=ff0000&text_color=ffffff&bg_color=0D1117" alt="0jafc0" />
-  <img align="left" height=150em src="https://github-readme-stats.vercel.app/api/top-langs?username=0jafc0&show_icons=true&locale=en&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=0D1117" alt="0jafc0" />
+  <p>&nbsp;<img align="left" height=165em src="https://github-readme-stats.vercel.app/api?username=0jafc0&show_icons=true&locale=en&title_color=ff0000&text_color=ffffff&bg_color=0D1117" alt="0jafc0" />
+  <img align="left" height=165em src="https://github-readme-stats.vercel.app/api/top-langs?username=0jafc0&show_icons=true&locale=en&layout=compact&title_color=ff0000&text_color=ffffff&bg_color=0D1117" alt="0jafc0" />
   </p>
 </div>
 
