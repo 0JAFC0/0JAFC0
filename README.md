@@ -10,7 +10,7 @@
 - 🌱 Estudando **JavaScript ES6, Typescript, Node.js**.
   
 
-- ⚡ Fatos Interessantes: **Sou uma pessoa que ama aprender, musica, linux e tecnologia**.
+- ⚡ Fatos Interessantes: **Sou uma pessoa que ama aprender, ouvir musicas, aprender sobre o linux e sobre as novas tecnologias**.
   
 
 <br/>  
