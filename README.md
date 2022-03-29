@@ -1,13 +1,13 @@
 
 
 
-### <div  >Olá👋 me chamo João Arthur, no meu tempo livre gosto de estudar e aprender coisas novas, atualmente estou buscando me aprimorar.<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="30%" align="right" alt=""></div>
+### <div  >Prazer👋 me chamo João Arthur, no meu tempo livre gosto de estudar e aprender coisas novas, atualmente estou buscando me aprimorar.<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="30%" align="right" alt=""></div>
   
 
 - 🔭 Estou Atualmente trabalhando em projetos pessoais.  
   
 
-- 🌱 Estudando **JavaScript ES6, Typescript, Node.js**.
+- 🌱 Estudando **JavaScript ES6, Typescript, Angular**.
   
 
 - ⚡ Fatos Interessantes: **Sou uma pessoa que ama aprender, ouvir musicas, aprender sobre o linux e sobre as novas tecnologias**.
