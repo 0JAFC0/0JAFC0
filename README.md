@@ -81,13 +81,15 @@
 </p>
 <h3 style="font-weight:bold;" align="center">SGBDs & Testings</h3> 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://www.mysql.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /> 
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.postgresql.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
   </a>
-<a href="https://postman.com" ><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://postman.com" >
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
 </td></tr></table>  
 
@@ -96,15 +98,15 @@
 
 ## Conecte-se comigo 
 <div align="center">
-<a href="https://github.com/0jafc0" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ja-fc" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/0jafc0" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/0jafc0" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/ja-fc" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom:5px;"/>
+  </a>
+  <a href="https://instagram.com/0jafc0" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
+  </a>
 </div>  
   
 
@@ -113,12 +115,12 @@
 
 ## Estatísticas do Github  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=0jafc0&show_icons=true&count_private=true&hide_border=true&theme=dracula" width="45%" align="center"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0jafc0&hide_border=true&layout=compact&theme=dracula" width="38%" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0jafc0&show_icons=true&count_private=true&hide_border=true&theme=dracula" width="45%" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0jafc0&hide_border=true&layout=compact&theme=dracula" width="38%" align="center"/>
 </div>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=0jafc0&color=red&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=0jafc0&color=red&style=flat-square" align="center" />
 </div>  
 
 <br />
