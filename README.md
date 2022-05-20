@@ -7,7 +7,7 @@
 - 🔭 Estou Atualmente trabalhando em projetos pessoais.  
   
 
-- 🌱 Estudando **JavaScript ES6, Typescript, React**.
+- 🌱 Estudando **JavaScript ES6, Typescript, Angular**.
   
 
 - ⚡ Fatos Interessantes: **Sou uma pessoa que ama aprender, ouvir musicas, aprender sobre o linux e sobre as novas tecnologias**.
