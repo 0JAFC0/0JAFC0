@@ -4,7 +4,7 @@
 ### <div  >Prazer👋 me chamo João Arthur, no meu tempo livre gosto de estudar e aprender coisas novas, atualmente estou buscando me aprimorar.<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="30%" align="right" alt=""></div>
   
 
-- 🔭 Estou Atualmente trabalhando em projetos pessoais.  
+- 🔭 Estou Atualmente trabalhando em projetos pessoais no <a href="https://github.com/Observatorio-Pedagogico" target="_blank">Observatorio pedagogico</a> e em um projeto de pesquisa.  
   
 
 - 🌱 Estudando **JavaScript ES6, Typescript, Angular**.
