@@ -7,7 +7,7 @@
 - 🔭 Estou Atualmente trabalhando em projetos pessoais no <a href="https://github.com/Observatorio-Pedagogico" target="_blank">Observatorio pedagogico</a> e em um projeto de pesquisa.  
   
 
-- 🌱 Estudando **JavaScript ES6, Typescript, Angular**.
+- 🌱 Graduando **Analise e Desenvolvimento de Sistemas**, Aprendendo **REST API's RESTFul do 0 à AWS com Spring Boot 2.x e Docker**.
   
 
 - ⚡ Fatos Interessantes: **Sou uma pessoa que ama aprender, ouvir musicas, aprender sobre o linux e sobre as novas tecnologias**.
