@@ -39,7 +39,7 @@
 <h3 style="font-weight:bold;" align="center">Editor</h3>
 <p align="center"> 
 <a href="https://code.visualstudio.com/" > 
-  <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> </a> <a href="https://replit.com/" > </p>
 </td><td valign="top" width="33%">
 
 
