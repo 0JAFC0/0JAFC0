@@ -55,7 +55,27 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
   </a>
 </p>
-  
+<h3 style="font-weight:bold;" align="center">Backend Development</h3>
+<p align="center">
+  <a href="https://spring.io/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" />
+  </a>
+<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /> -->
+</p>
+
+</td><td valign="top" width="33%">
+<h3 style="font-weight:bold;" align="center">SGBDs & Testings</h3> 
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
+  </a>
+  <a href="https://postman.com" >
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+</p>
 <h3 style="font-weight:bold;" align="center">Others</h3>
 <p align="center">
   <a href="https://www.linux.org/pages/download/" target="_blank">
@@ -68,28 +88,14 @@
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></p> 
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />
   </a>
-</p>
-</td><td valign="top" width="33%">
-<h3 style="font-weight:bold;" align="center">Backend Development</h3>
-<p align="center">
-  <a href="https://spring.io/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" />
+  <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" height="40" /> 
   </a>
-<!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /> -->
-</p>
-<h3 style="font-weight:bold;" align="center">SGBDs & Testings</h3> 
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /> 
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
-  </a>
-  <a href="https://postman.com" >
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
+  <a href="https://getfedora.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" alt="Fedora" height="40" />
+  </a></p>
 </p>
 </td></tr></table>  
 
