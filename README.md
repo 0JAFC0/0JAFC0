@@ -54,6 +54,9 @@
   <a href="https://getbootstrap.com/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
   </a>
+  <a href="https://angular.io/" target="_blank">
+    <img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" height="40" />
+  </a>
 </p>
 <h3 style="font-weight:bold;" align="center">Backend Development</h3>
 <p align="center">
