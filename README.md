@@ -23,13 +23,13 @@
   <h3 style="font-weight:bold;" align="center">Programming Languages</h3>
   <p align="center">
   <a href="https://www.java.com/en/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="40" />  
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />  
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=py" alt="Python" height="40" />
   </a>
   <a href="https://www.javascript.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
   </a>
     <!--
   <a href="https://www.typescriptlang.org/" target="_blank">
@@ -39,29 +39,29 @@
 <h3 style="font-weight:bold;" align="center">Editor</h3>
 <p align="center"> 
 <a href="https://code.visualstudio.com/" > 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> </a> <a href="https://replit.com/" > </p>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/> </a> <a href="https://replit.com/" > </p>
 </td><td valign="top" width="33%">
 
 
 <h3 style="font-weight:bold;" align="center">Frontend Developerment</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" />  
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" />  
   </a>
   <a href="https://getbootstrap.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="40" />
   </a>
   <a href="https://angular.io/" target="_blank">
-    <img style="margin: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="Angular" height="40" />
+    <img style="margin: 10px;" src="https://skillicons.dev/icons?i=angular" alt="Angular" height="40" />
   </a>
 </p>
 <h3 style="font-weight:bold;" align="center">Backend Development</h3>
 <p align="center">
   <a href="https://spring.io/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring" height="40" />
   </a>
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /> -->
 </p>
@@ -70,34 +70,34 @@
 <h3 style="font-weight:bold;" align="center">SGBDs & Testings</h3> 
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" /> 
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40" /> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" />
   </a>
   <a href="https://postman.com" >
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetdrawings.com%2Ffree-icon%2Fpostman-icon-69.png&f=1&nofb=1&ipt=79104572c54dd549301c61f02f666371f85da58c563e8874e0ff68b617d97f8b&ipo=images" alt="postman" width="40" height="40" style="color: #FF6C37;"/>
   </a>
 </p>
 <h3 style="font-weight:bold;" align="center">Others</h3>
 <p align="center">
   <a href="https://www.linux.org/pages/download/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
   </a>
   <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" height="40" /> 
   </a>
   <a href="https://getfedora.org/" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-plain.svg" alt="Fedora" height="40" />
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" height="40" />
   </a></p>
 </p>
 </td></tr></table>  
