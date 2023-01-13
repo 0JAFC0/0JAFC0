@@ -124,8 +124,8 @@
 
 ## Estatísticas do Github  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0jafc0&show_icons=true&count_private=true&hide_border=false&title_color=7F5AF0&text_color=ffffff&icon_color=7F5AF0&border_color=c9d1d9&bg_color=0d1117&" width="45%" align="center"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0jafc0&hide_border=false&layout=compact&langs_count=6&title_color=7F5AF0&text_color=ffffff&icon_color=7F5AF0&border_color=c9d1d9&bg_color=0d1117&" width="38%" align="center"/>
+  <img src="https://github-readme-stats-lh39.vercel.app/api?username=0jafc0&show_icons=true&count_private=true&hide_border=false&title_color=7F5AF0&text_color=ffffff&icon_color=7F5AF0&border_color=c9d1d9&bg_color=0d1117&" width="45%" align="center"/>
+  <img src="https://github-readme-stats-lh39.vercel.app/api/top-langs/?username=0jafc0&hide_border=false&layout=compact&langs_count=6&title_color=7F5AF0&text_color=ffffff&icon_color=7F5AF0&border_color=c9d1d9&bg_color=0d1117&" width="38%" align="center"/>
 </div>  
 
 <div align="center">
