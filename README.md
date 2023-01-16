@@ -4,7 +4,7 @@
 ### <div  >Prazer👋 me chamo João Arthur, no meu tempo livre gosto de estudar e aprender coisas novas, atualmente estou buscando me aprimorar.<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="30%" align="right" alt=""></div>
   
 
-- 🔭 Estou Atualmente trabalhando em projetos pessoais, no <a href="https://github.com/Observatorio-Pedagogico" target="_blank">Observatorio pedagogico</a> e em um projeto de pesquisa. todos são bem-vindos para me ajudar nos meus projetos.  
+- 🔭 Estou Atualmente trabalhando em projetos pessoais e em um projeto de pesquisa. todos são bem-vindos para me ajudar nos meus projetos.  
   
 
 - 🌱 Graduando **Analise e Desenvolvimento de Sistemas**, Aprendendo **REST API's RESTFul do 0 à AWS com Spring Boot 2.x e Docker**.
@@ -81,20 +81,20 @@
 </p>
 <h3 style="font-weight:bold;" align="center">Others</h3>
 <p align="center">
+  <a href="https://www.figma.com/" target="_blank">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  </a>
+  <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">
+    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" height="40" /> 
+  </a>
   <a href="https://www.linux.org/pages/download/" target="_blank">
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank">
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img style="margin: 10px" src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" />
-  </a>
-  <a href="https://www.microsoft.com/pt-br/software-download/windows10" target="_blank">
-    <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows 10" height="40" /> 
   </a>
   <a href="https://getfedora.org/" target="_blank">
     <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" alt="Fedora" height="40" />
@@ -112,9 +112,6 @@
   </a>
   <a href="https://linkedin.com/in/ja-fc" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom:5px;"/>
-  </a>
-  <a href="https://instagram.com/0jafc0" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;"/>
   </a>
 </div>  
   
