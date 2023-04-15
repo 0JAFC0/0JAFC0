@@ -31,16 +31,20 @@
   <a href="https://www.javascript.com/" target="_blank">
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
   </a>
-    <!--
+    
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />  
-  </a>-->
+  </a>
 </p>
 <h3 style="font-weight:bold;" align="center">Editor</h3>
-<p align="center"> 
-<a href="https://code.visualstudio.com/" > 
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/> </a> <a href="https://replit.com/" > </p>
-</td><td valign="top" width="33%">
+  <p align="center"> 
+  <a href="https://code.visualstudio.com/" > 
+    <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"/> 
+  </a>
+  <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" height="40" />
+  </a>
+</p></td><td valign="top" width="33%">
 
 
 <h3 style="font-weight:bold;" align="center">Frontend Developerment</h3>
@@ -61,8 +65,13 @@
 <h3 style="font-weight:bold;" align="center">Backend Development</h3>
 <p align="center">
   <a href="https://spring.io/" target="_blank">
-    <img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring" height="40" />
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=spring" alt="Spring Framework" height="40" />
   </a>
+  
+  <a href="https://www.docker.com/" target="_blank">
+    <img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
+  </a>
+
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /> -->
 </p>
 
@@ -76,7 +85,7 @@
     <img style="margin: 10px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" />
   </a>
   <a href="https://postman.com" >
-    <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgetdrawings.com%2Ffree-icon%2Fpostman-icon-69.png&f=1&nofb=1&ipt=79104572c54dd549301c61f02f666371f85da58c563e8874e0ff68b617d97f8b&ipo=images" alt="postman" width="40" height="40" style="color: #FF6C37;"/>
+    <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/>
   </a>
 </p>
 <h3 style="font-weight:bold;" align="center">Others</h3>
