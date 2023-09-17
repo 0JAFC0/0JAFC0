@@ -4,10 +4,10 @@
 ### <div  >Prazer👋 me chamo João Arthur, no meu tempo livre gosto de estudar e aprender coisas novas, atualmente estou buscando me aprimorar.<img src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="30%" align="right" alt=""></div>
   
 
-- 🔭 Estou Atualmente trabalhando em projetos pessoais e em um projeto de pesquisa. todos são bem-vindos para me ajudar nos meus projetos.  
+- 🔭 Estou Atualmente trabalhando em projetos pessoais. todos são bem-vindos para me ajudar nos meus projetos.  
   
 
-- 🌱 Graduando **Analise e Desenvolvimento de Sistemas**, Aprendendo **REST API's RESTFul do 0 à AWS com Spring Boot 2.x e Docker**.
+- 🌱 Graduando **Analise e Desenvolvimento de Sistemas**, Buscando sempre aprender coisas novas.
   
 
 - ⚡ Fatos Interessantes: **Sou uma pessoa que ama aprender, que gosta de ouvir música, aprender sobre o Linux e sobre as novas tecnologias.**.
